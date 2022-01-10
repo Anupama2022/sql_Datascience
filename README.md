@@ -2,5 +2,5 @@
 
 This project repository contains the scripts and resources to analyse Magist database
 
-It also contains csv files to which can be imported to tableau for visualization.
+It also contains csv files which can be imported to tableau for visualization.
 
